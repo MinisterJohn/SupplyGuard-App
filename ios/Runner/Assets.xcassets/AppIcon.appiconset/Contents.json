@@ -1,0 +1,43 @@
+{
+  "images": [
+    {
+      "size": "20x20",
+      "idiom": "iphone",
+      "filename": "supplyguard-20x20.png"
+    },
+    {
+      "size": "29x29",
+      "idiom": "iphone",
+      "filename": "supplyguard-29x29.png"
+    },
+    {
+      "size": "40x40",
+      "idiom": "iphone",
+      "filename": "supplyguard-40x40.png"
+    },
+    {
+      "size": "60x60",
+      "idiom": "iphone",
+      "filename": "supplyguard-60x60.png"
+    },
+    {
+      "size": "76x76",
+      "idiom": "iphone",
+      "filename": "supplyguard-76x76.png"
+    },
+    {
+      "size": "84x84",
+      "idiom": "iphone",
+      "filename": "supplyguard-84x84.png"
+    },
+    {
+      "size": "1024x1024",
+      "idiom": "iphone",
+      "filename": "supplyguard-1024x1024.png"
+    }
+  ],
+  "info": {
+    "version": 1,
+    "author": "xcode"
+  }
+}
